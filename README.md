@@ -1,4 +1,4 @@
 # MovieLens-Cluster-Analysis
-Analyzing an open-source data set of movies and their respective genres, tags, ratings, etc.
+See presentation for overview of project.
 
 The goal of this project is to create a reasonable clusters for movies from the popular MovieLens dataset. This dataset contains 25,000,095 ratings and 1,093,360 tag applications across 62,423 movies.There are 162,541 users included in the dataset from between January 09, 1995 and Nobember 21, 2019.  Users were selected at random for inclusion in the dataset, and all users had rated at least 1 movie. No demographic information is included. MovieLens dataset was updated as of 12/2019.  Clustering similar movies together is would be the first step in creating a recommender system. So although this project won't go so far as to make a recommender system, it will highlight how movies are being clustered and the best ways to visualize these clusters.
